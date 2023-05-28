@@ -1,30 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="UTF-8">
-  <title>California Housing Prices - Linear Regression Project</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.5;
-      padding: 20px;
-    }
-    h1, h2, h3, h4, h5, h6 {
-      margin-bottom: 10px;
-    }
-    p {
-      margin-bottom: 15px;
-    }
-    pre {
-      background-color: #f7f7f7;
-      padding: 10px;
-      border-radius: 4px;
-    }
-    code {
-      font-family: Consolas, Monaco, Courier New, monospace;
-    }
-  </style>
-</head>
 <body>
   <h1>California Housing Prices - Linear Regression Project</h1>
 
