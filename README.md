@@ -28,8 +28,11 @@
 
   <h2>Code</h2>
 
-  <pre><code>```python
+  <pre><code>
+  https://github.com/chatreeasa/dataScience_housingPrice/blob/main/1_housingPrice.ipynb
+  ```python
   # The code snippets from the script can be included here
-  ```</code></pre>
+  ```
+  </code></pre>
 </body>
 </html>
